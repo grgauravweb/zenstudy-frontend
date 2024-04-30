@@ -1,0 +1,52 @@
+footer{
+  background-color: #ddd;
+  padding-bottom: 30px;
+}
+footer .col{
+  margin-right:20px;
+}
+.footer{
+  margin-right:30px;
+  margin-left:30px;
+}
+.fa {
+  padding: 12px;
+  font-size: 34px!important;
+  width: 58px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-facebook {
+  background-color: #3B5998;
+  color: white;
+  border-radius: 50px;
+}
+.fa-instagram{
+  background-color:#df435e;
+  color: white;
+  border-radius: 50px;
+}
+.fa-twitter{
+  background-color:#43bbdf;
+  color: white;
+  border-radius: 50px;
+}
+.fa-telegram-plane{
+  background-color:#ffffff;
+  color: #43bbdf;
+  border-radius: 50px;
+}
+.socialicons li{
+  display: inline;
+}
+.row{
+--bs-gutter-x: 0rem!important;
+}
+.content{
+  margin-left: 140px;
+  margin-right: 20px;
+}
+body{
+  overflow-x: hidden;
+}
+
